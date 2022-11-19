@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div align="center">
-<img height="235em" src="https://github-readme-stats.vercel.app/api?username=Josehpequeno&theme=transparent&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josehpequeno"/>
+<img height="230em" src="https://github-readme-stats.vercel.app/api?username=Josehpequeno&theme=transparent&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josehpequeno"/>
 </div>
 
 ##
