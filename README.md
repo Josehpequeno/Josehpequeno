@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
 ![Josehpequeno GitHub stats](https://github-readme-stats.vercel.app/api?username=Josehpequeno&theme=transparent&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josehpequeno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ##
 
 <div>
