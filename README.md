@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![Josehpequeno GitHub stats](https://github-readme-stats.vercel.app/api?username=Josehpequeno&theme=transparent&show_icons=true&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josehpequeno&layout=compact)](https://github.com/Josehpequeno/github-readme-stats)
+<div align="center">
+<img height="360em" src="https://github-readme-stats.vercel.app/api?username=Josehpequeno&theme=transparent&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josehpequeno"/>
+</div>
 
 ##
 
