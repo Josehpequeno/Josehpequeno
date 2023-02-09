@@ -1,6 +1,6 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Josehpequeno&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&bg_color=192432&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Josehpequeno&bg_color=192432&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&langs_count=11&hide=shell,handlebars,HTML,css&layout=compact"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Josehpequeno&bg_color=192432&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&langs_count=11&hide=handlebars,HTML,css&layout=compact"/>
 </div>
 
 ##
