@@ -1,10 +1,12 @@
-<div align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Josehpequeno&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&bg_color=192432&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Josehpequeno&bg_color=192432&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&langs_count=10&hide=handlebars,HTML,css,shell&layout=compact"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Josehpequeno&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&bg_color=002236&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Josehpequeno&bg_color=002236&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&langs_count=10&hide=handlebars,HTML,css,shell&layout=compact&card_width=320" />
+</a>
 
 ##
 
 <div style="color:#ffffff">
-  <a href="https://www.linkedin.com/in/hicarojose/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=192432&color=192432" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hicarojose/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=002236&color=192432" target="_blank"></a>
 </div>
