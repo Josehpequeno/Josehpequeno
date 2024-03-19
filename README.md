@@ -9,4 +9,6 @@
 
 <div style="color:#ffffff">
   <a href="https://www.linkedin.com/in/hicarojose/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=002236&color=192432" target="_blank"></a>
+  <a href="mailto:hicarojbs21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=002236&color=192432" target="_blank">
+  </a>
 </div>
